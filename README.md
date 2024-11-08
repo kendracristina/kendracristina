@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kendracristina
 - 👀 I’m interested in music, movies and learning IT
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning JavaScript, css and html
 - 😄 Pronouns: she/her
 
 
